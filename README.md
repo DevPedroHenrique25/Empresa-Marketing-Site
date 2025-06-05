@@ -33,3 +33,4 @@ Este é o repositório de um site institucional para uma agência especializada 
    ou
 3. Clique no botão verde **"Code"** acima.
 4. Selecione **"Download ZIP"** para baixar o projeto.
+5. Abra o arquivo index.html
