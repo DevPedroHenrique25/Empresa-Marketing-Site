@@ -12,11 +12,16 @@ Este é o repositório de um site institucional para uma agência especializada 
 
 ## 📸 Demonstração
 
-![Screenshot do site](caminho-da-imagem-ou-link)
+## 📸 Preview do projeto:
+![Preview](./preview.png) 
+
+---
 
 ## 🚀 Funcionalidades
-- Página Home
-- Po que nós
+-  Design responsivo (mobile, tablet e desktop)
+- Navegação simples e intuitiva
+- Por que nós
+- Layout moderno
 - Galeria de trabalhos
 - Depoimentos de clientes
 - Formulário de contato
