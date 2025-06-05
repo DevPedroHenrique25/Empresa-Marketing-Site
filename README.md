@@ -25,3 +25,11 @@ Este é o repositório de um site institucional para uma agência especializada 
 - Galeria de trabalhos
 - Depoimentos de clientes
 - Formulário de contato
+
+---
+
+## ⚙️ Como visualizar este projeto:
+1. Acesse https://devpedrohenrique25.github.io/Consultorio-Dentista/
+   ou
+3. Clique no botão verde **"Code"** acima.
+4. Selecione **"Download ZIP"** para baixar o projeto.
