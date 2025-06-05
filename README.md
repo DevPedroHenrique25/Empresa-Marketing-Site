@@ -10,7 +10,7 @@ Este é o repositório de um site institucional para uma agência especializada 
 - jQuery
 - SlickSlider
 
-## 📸 Demonstração
+---
 
 ## 📸 Preview do projeto:
 ![Preview](./preview.png) 
